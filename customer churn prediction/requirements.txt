@@ -1,0 +1,12 @@
+
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pickle
+streamlit
+
+
+warnings.filterwarnings('ignore')
